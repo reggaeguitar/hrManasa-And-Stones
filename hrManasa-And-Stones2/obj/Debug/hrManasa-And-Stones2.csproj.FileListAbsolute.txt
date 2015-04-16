@@ -1,0 +1,6 @@
+C:\Users\azl6apw\Documents\Visual Studio 2013\Projects\hrManasa-And-Stones\hrManasa-And-Stones2\bin\Debug\hrManasa-And-Stones2.exe.config
+C:\Users\azl6apw\Documents\Visual Studio 2013\Projects\hrManasa-And-Stones\hrManasa-And-Stones2\bin\Debug\hrManasa-And-Stones2.exe
+C:\Users\azl6apw\Documents\Visual Studio 2013\Projects\hrManasa-And-Stones\hrManasa-And-Stones2\bin\Debug\hrManasa-And-Stones2.pdb
+C:\Users\azl6apw\Documents\Visual Studio 2013\Projects\hrManasa-And-Stones\hrManasa-And-Stones2\obj\Debug\hrManasa-And-Stones2.csprojResolveAssemblyReference.cache
+C:\Users\azl6apw\Documents\Visual Studio 2013\Projects\hrManasa-And-Stones\hrManasa-And-Stones2\obj\Debug\hrManasa-And-Stones2.exe
+C:\Users\azl6apw\Documents\Visual Studio 2013\Projects\hrManasa-And-Stones\hrManasa-And-Stones2\obj\Debug\hrManasa-And-Stones2.pdb
